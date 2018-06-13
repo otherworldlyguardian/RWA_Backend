@@ -12,39 +12,34 @@
     "first_name": "John",
     "last_name": "Smith",
     "password": "indian75",
-    "password_confirmation": "indian75",
-    "admin": true
+    "password_confirmation": "indian75"
   },
   {
     "username": "driver2",
     "first_name": "John",
     "last_name": "Paul",
     "password": "pope16",
-    "password_confirmation": "pope16",
-    "admin": true
+    "password_confirmation": "pope16"
   },
   {
     "username": "driver3",
     "first_name": "Elizabeth",
     "last_name": "Seton",
     "password": "oldie1774",
-    "password_confirmation": "oldie1774",
-    "admin": true
+    "password_confirmation": "oldie1774"
   },
   {
     "username": "driver4",
     "first_name": "Luke",
     "last_name": "Danes",
     "password": "diner55",
-    "password_confirmation": "diner55",
-    "admin": true
+    "password_confirmation": "diner55"
   },
   {
     "username": "driver5",
     "first_name": "Emily",
     "last_name": "Gilmore",
     "password": "rich77",
-    "password_confirmation": "rich77",
-    "admin": true
+    "password_confirmation": "rich77"
   }
 ]
