@@ -13,7 +13,7 @@ class CreateForms < ActiveRecord::Migration[5.2]
       t.string :weather
       t.integer :temp
       t.string :notes
-      t.belongs_to :driver, foreign_key: true
+      t.belongs_to :user, foreign_key: true
       t.belongs_to :field, foreign_key: true
 
       t.timestamps

@@ -20,11 +20,11 @@ default: &default
   # For details on connection pooling, see Rails configuration guide
   # http://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  host: rwa-postgresql-db.c5tpr70yue2u.us-east-1.rds.amazon.com
+  host: rwa.c5tpr70yue2u.us-east-1.rds.amazonaws.com
   username: otherworldlyguardian
   password: TN3|nF];yhT8s:9}),G_ZcGC
   port: 5432
-  database: rwa_postgresql_db1
+  database: postgresql_db1
 
 development:
   <<: *default
