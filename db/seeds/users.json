@@ -1,0 +1,50 @@
+[
+  {
+    "username": "master",
+    "first_name": "Andrew",
+    "last_name": "Oldham",
+    "password": "rwaform781",
+    "password_confirmation": "rwaform781",
+    "admin": true
+  },
+  {
+    "username": "driver1",
+    "first_name": "John",
+    "last_name": "Smith",
+    "password": "indian75",
+    "password_confirmation": "indian75",
+    "admin": true
+  },
+  {
+    "username": "driver2",
+    "first_name": "John",
+    "last_name": "Paul",
+    "password": "pope16",
+    "password_confirmation": "pope16",
+    "admin": true
+  },
+  {
+    "username": "driver3",
+    "first_name": "Elizabeth",
+    "last_name": "Seton",
+    "password": "oldie1774",
+    "password_confirmation": "oldie1774",
+    "admin": true
+  },
+  {
+    "username": "driver4",
+    "first_name": "Luke",
+    "last_name": "Danes",
+    "password": "diner55",
+    "password_confirmation": "diner55",
+    "admin": true
+  },
+  {
+    "username": "driver5",
+    "first_name": "Emily",
+    "last_name": "Gilmore",
+    "password": "rich77",
+    "password_confirmation": "rich77",
+    "admin": true
+  }
+]

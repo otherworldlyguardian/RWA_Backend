@@ -1,0 +1,82 @@
+[
+  {
+    "label": "Corn1",
+    "address": "640 Redwing Ct",
+    "sand": true,
+    "description": "flat and wet",
+    "acreage": 10,
+    "client_id": 1
+  },
+  {
+    "label": "Timber1",
+    "address": "56981 Coolidge Dr",
+    "sand": false,
+    "description": "slightly hilly",
+    "acreage": 17,
+    "client_id": 3
+  },
+  {
+    "label": "Germ1",
+    "address": "38 Golf View Pt",
+    "sand": false,
+    "description": "recently rained, good drainage",
+    "acreage": 3,
+    "client_id": 4
+  },
+  {
+    "label": "Petal1",
+    "address": "532 Arkansas Ave",
+    "sand": false,
+    "description": "lots of hills, very rocky",
+    "acreage": 8,
+    "client_id": 2
+  },
+  {
+    "label": "Petal2",
+    "address": "149 Ruskin Terr",
+    "sand": true,
+    "description": "very muddy, small hills",
+    "acreage": 13,
+    "client_id": 2
+  },
+  {
+    "label": "Organic1",
+    "address": "54720 Gateway Plaza",
+    "sand": false,
+    "description": "muddy",
+    "acreage": 6,
+    "client_id": 5
+  },
+  {
+    "label": "Petal3",
+    "address": "18 Di Loreto Pt",
+    "sand": false,
+    "description": "flat and desolate",
+    "acreage": 2,
+    "client_id": 2
+  },
+  {
+    "label": "Corn2",
+    "address": "1253 Charing Cross",
+    "sand": false,
+    "description": "grassy and moderate hills",
+    "acreage": 25,
+    "client_id": 1
+  },
+  {
+    "label": "Timber2",
+    "address": "74 Muir Cr",
+    "sand": true,
+    "description": "sandy and wet",
+    "acreage": 3,
+    "client_id": 3
+  },
+  {
+    "label": "Germ2",
+    "address": "9767 Harper Ctr",
+    "sand": true,
+    "description": "very dry, lots of dust",
+    "acreage": 7,
+    "client_id": 4
+  }
+]

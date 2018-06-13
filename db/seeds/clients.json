@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sweet Corn, Inc.",
+    "address": "546 Corny Ln",
+    "phone": "7094561345",
+    "email": "kettle@kernel.com"
+  },
+  {
+    "name": "Pretty Petals",
+    "address": "123 Floral St",
+    "phone": "5551234567",
+    "email": "gorgeous@pansy.co"
+  },
+  {
+    "name": "Tall Tree Timbers",
+    "address": "737 Old Shore Point",
+    "phone": "1692973014",
+    "email": "pine@fallen.net"
+  },
+  {
+    "name": "Germination, Inc.",
+    "address": "18 Park Meadow Ct",
+    "phone": "2985974608",
+    "email": "grow@diseased.org"
+  },
+  {
+    "name": "Organic Farms",
+    "address": "1 Stephen Trail",
+    "phone": "2563585908",
+    "email": "eggcellent@fresh.com"
+  }
+]
