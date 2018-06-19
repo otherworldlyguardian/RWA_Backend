@@ -1,0 +1,3 @@
+class FieldController < ApplicationController
+  
+end
