@@ -3,6 +3,7 @@ class UsersController < ApplicationController
     user = User.find_by(username: params[:username])
     if user && user.authenticate(params[:password])
       render json: {
+        userId: user.id,
         firstName: user.first_name,
         lastName: user.last_name,
         initials: user.first_name[0] + user.last_name[0],
